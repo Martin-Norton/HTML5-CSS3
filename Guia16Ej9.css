@@ -1,0 +1,50 @@
+#titulo{
+    color: darkcyan;
+}
+.strong1{
+    color: #CC0000;
+}
+.destacado{
+    color: rgb(250, 246, 4);
+}
+#subtitulo{
+    color: blue;
+}
+.a1{
+    text-decoration-color: #CC0000;
+    color: #CC0000;
+}
+.em1{
+    color: blue;
+}
+.sp1{
+    color: rgb(105, 4, 199);
+}
+.especial{
+    color: rgb(240, 146, 5);
+}
+.colorverde{
+    color: #00cc1f;
+}
+.colorama{
+    color: rgb(250, 246, 4);
+}
+.rojo{
+    color: #CC0000;
+}
+table {
+    border-collapse: collapse; /* para fusionar los bordes de las celdas adyacentes */
+    border: 1px solid black; /* establecer un borde de 1px de ancho y color negro */
+}
+td, th {
+    border: 1px solid black; /* establecer un borde de 1px de ancho y color negro */
+}
+.vermus{
+    color: #0a7428e0;
+}
+#especial{
+    color: blueviolet;
+}
+.ultimo{
+    color: #00cc1f;
+}

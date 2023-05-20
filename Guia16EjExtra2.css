@@ -1,0 +1,22 @@
+.tabla{
+    text-align: center;
+    border-color: #333;
+    border-collapse: collapse;
+}
+tr:nth-of-type(1) th{
+    background-image: url(ejextra2gif.gif);
+    background-size: cover;
+}
+tr:nth-of-type(1) th{
+    background-color: #938d8d;
+}
+th{
+    background-color: greenyellow;
+    text-align: left;
+}
+tr:nth-of-type(even) td{
+    background-color: yellow;
+}
+img{
+    height: 0.7rem; 
+}

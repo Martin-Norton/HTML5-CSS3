@@ -1,0 +1,11 @@
+nav a{
+    color: #c00;
+}
+nav a:hover{
+    background-color: #c00;
+    color: #FFF;
+    
+}
+nav a:visited{
+    color: #CCC;
+}
